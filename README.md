@@ -1,2 +1,1 @@
-# IoT_Project
-Projeto de IoT da ESTGL
+# IoT_Projects
